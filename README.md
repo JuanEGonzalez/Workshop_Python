@@ -1,2 +1,2 @@
 # Workshop_Python
-Taller DataCampfire
+Taller Realizado para DataCampfire donde se explica el uso de Pandas y Bokeh en Python.
